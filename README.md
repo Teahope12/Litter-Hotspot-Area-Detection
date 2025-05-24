@@ -49,6 +49,7 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```bash
 pip install tensorflow opencv-python numpy matplotlib streamlit scikit-learn
 ```
+Access the model form the releases of this project
 
 ## Usage
 
